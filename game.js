@@ -1,1 +1,0 @@
-console.log("Hello world from the space quiz!")
