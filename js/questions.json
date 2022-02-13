@@ -1,0 +1,162 @@
+[
+    {
+      "question": "What is the star closest to Earth??",
+      "choice1": "the sun",
+      "choice2": "mercury",
+      "choice3": "venus",
+      "choice4": "alpha centauri",
+      "answer": 1
+    },
+    {
+      "question": "Which is the hottest planet?",
+      "choice1": "Mercury",
+      "choice2": "Neptune",
+      "choice3": "Venus",
+      "choice4": "Mars",
+      "answer": 3
+    },
+    {
+      "question": "How long does it take the sun's light to reach Earth?",
+      "choice1": "3 minutes",
+      "choice2": "8 minutes",
+      "choice3": "60 seconds",
+      "choice4": "24 hours",
+      "answer": 2
+    },
+    {
+        "question": "How many stars are in our solar system?",
+        "choice1": "0",
+        "choice2": "3",
+        "choice3": "2",
+        "choice4": "1",
+        "answer": 4
+      },
+      {
+        "question": "What is the name of our galaxy?",
+        "choice1": "The Sun",
+        "choice2": "The Milky Way",
+        "choice3": "The Twix Galaxy",
+        "choice4": "The Universe",
+        "answer": 2
+      },
+      {
+        "question": "Which two planets do not have moons?",
+        "choice1": "Mercury and Venus",
+        "choice2": "Earth and Venus",
+        "choice3": "Venus and Mars",
+        "choice4": "Neptune and Uranus",
+        "answer": 1
+      },
+      {
+        "question": "How many moons does Jupiter have?",
+        "choice1": "2",
+        "choice2": "20",
+        "choice3": "55+",
+        "choice4": "100+",
+        "answer": 3
+      },
+      {
+        "question": "Where is the North Star located?",
+        "choice1": "Directly over Earth's North Pole",
+        "choice2": "In the North Galaxy",
+        "choice3": "In North America",
+        "choice4": "In the North Sun",
+        "answer": 1
+      },
+      {
+        "question": "What is the Earth's biggest satellite?",
+        "choice1": "The Hubble Space Telescope",
+        "choice2": "The Mars Satellite",
+        "choice3": "The Moon",
+        "choice4": "Elon Musk's Tesla Roadster",
+        "answer": 3
+      },
+      {
+        "question": "What is a supernova?",
+        "choice1": "A planet",
+        "choice2": "A galaxy",
+        "choice3": "A satellite",
+        "choice4": "An exploding star",
+        "answer": 4
+      },
+      {
+        "question": "Which planet spins on its side?",
+        "choice1": "Jupiter",
+        "choice2": "Mars",
+        "choice3": "Neptune",
+        "choice4": "Uranus",
+        "answer": 4
+      },
+      {
+        "question": "Where does gravity pull people/objects?",
+        "choice1": "Center",
+        "choice2": "Right",
+        "choice3": "Left",
+        "choice4": "Down",
+        "answer": 1
+      },
+      {
+        "question": "What's a blue moon?",
+        "choice1": "The second full moon in the month",
+        "choice2": "Blue wavelength",
+        "choice3": "Nothing",
+        "choice4": "Pluto's coldest moon",
+        "answer": 1
+      },
+      {
+        "question": "How many days does it take the moon to orbit the Earth?",
+        "choice1": "29",
+        "choice2": "15",
+        "choice3": "4",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Like Earth, Mars is covered with air. What type of gas makes up most of Mars' air?",
+        "choice1": "Oxygen",
+        "choice2": "Hydrogen",
+        "choice3": "Carbon Dioxide",
+        "choice4": "Propane",
+        "answer": 3
+      },
+      {
+        "question": "Pluto is not a planet. What is it?",
+        "choice1": "A Star",
+        "choice2": "A Ball of Ice",
+        "choice3": "An Asteroid",
+        "choice4": "A Dwarf Planet",
+        "answer": 4
+      },
+      {
+        "question": "How many dwarf planets are in our solar system?",
+        "choice1": "15",
+        "choice2": "11",
+        "choice3": "5",
+        "choice4": "2",
+        "answer": 3
+      },
+      {
+        "question": "Which planet is nicknamed 'The Red Planet'?",
+        "choice1": "Neptune",
+        "choice2": "Saturn",
+        "choice3": "Mars",
+        "choice4": "Earth",
+        "answer": 3
+      },
+      {
+        "question": "Which planet is nicknamed 'The Cloudy Planet'?",
+        "choice1": "Mars",
+        "choice2": "Venus",
+        "choice3": "Pluto",
+        "choice4": "Jupiter",
+        "answer": 2
+      },
+      {
+        "question": "If you are standing above the North Pole looking down, which way would the Earth rotate?",
+        "choice1": "Counter-clockwise",
+        "choice2": "Up",
+        "choice3": "Clockwise",
+        "choice4": "Down",
+        "answer": 1
+      }
+  ]

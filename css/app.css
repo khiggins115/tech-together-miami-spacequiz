@@ -1,6 +1,6 @@
 /*Look at CSS Styling with REM for reference*/
 :root {
-    background-color: #ecf5ff;
+    background-color: #2c3e50;
     font-size: 62.5%;
 }
 
@@ -9,9 +9,18 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #3498db;
 }
 
+/*
+body {
+    background-image: url("https://i.pinimg.com/736x/78/69/45/7869459a488917aef60594876a7ef13b.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
 
 h1,
 h2,
@@ -22,7 +31,7 @@ h4 {
 
 h1 {
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: #3498db;
     margin-bottom: 5rem;
 }
 
